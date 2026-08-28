@@ -8,3 +8,13 @@ C:\Users\fnafa\source\repos\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.csp
 C:\Users\fnafa\source\repos\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.csproj.CoreCompileInputs.cache
 C:\Users\fnafa\source\repos\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.exe
 C:\Users\fnafa\source\repos\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.pdb
+C:\Users\fnafa\OneDrive\Desktop\proyecto\EquipoFutbol\EquipoFutbol\bin\Debug\EquipoFutbol.exe.config
+C:\Users\fnafa\OneDrive\Desktop\proyecto\EquipoFutbol\EquipoFutbol\bin\Debug\EquipoFutbol.exe
+C:\Users\fnafa\OneDrive\Desktop\proyecto\EquipoFutbol\EquipoFutbol\bin\Debug\EquipoFutbol.pdb
+C:\Users\fnafa\OneDrive\Desktop\proyecto\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.csproj.AssemblyReference.cache
+C:\Users\fnafa\OneDrive\Desktop\proyecto\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.Form1.resources
+C:\Users\fnafa\OneDrive\Desktop\proyecto\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.Properties.Resources.resources
+C:\Users\fnafa\OneDrive\Desktop\proyecto\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.csproj.GenerateResource.cache
+C:\Users\fnafa\OneDrive\Desktop\proyecto\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.csproj.CoreCompileInputs.cache
+C:\Users\fnafa\OneDrive\Desktop\proyecto\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.exe
+C:\Users\fnafa\OneDrive\Desktop\proyecto\EquipoFutbol\EquipoFutbol\obj\Debug\EquipoFutbol.pdb
