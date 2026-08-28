@@ -28,6 +28,19 @@ Aca unas cuantas cosas que aprendi a hacer con el **.md**
 
 <p align="center"> Formato en Html centrado </p> <p align="center"> <strong>Texto en negrita y centrado</strong> </p>
 
-```python
-nombre = input("¿Cuál es tu nombre? ")
-print("Hola", nombre)
+- Lista
+- Elemento 1
+- Elemento 2
+- Elemento 3
+- Elemento 4
+
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
+4. Elemento 4
+
+| Nombre | Edad | Lenguaje |
+|--------|------|----------|
+| Axel   | 19   | Python   |
+| Juan   | 19   | C#       |
+| Pedro  | 21   | Java     |
